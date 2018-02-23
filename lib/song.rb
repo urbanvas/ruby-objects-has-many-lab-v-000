@@ -5,5 +5,8 @@ class Song
     @name = name
   end
 
+  def artist
+
+  end
 
 end
