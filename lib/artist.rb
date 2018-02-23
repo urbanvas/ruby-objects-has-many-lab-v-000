@@ -20,4 +20,9 @@ class Artist
     newsong = Song.new(song_name)
     add_song(newsong)
   end
+
+  def self.song_count
+    @@song_count
+  end
+
 end
