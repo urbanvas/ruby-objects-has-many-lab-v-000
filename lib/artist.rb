@@ -6,11 +6,11 @@ class Artist
     @name = name
     @songs = []
   end
-  # 
+  #
   # def songs=(song)
   #   @songs = song
   # end
-  # 
+  #
   # def songs
   #   @songs
   # end
